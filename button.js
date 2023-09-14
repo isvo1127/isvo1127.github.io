@@ -1,0 +1,12 @@
+
+function knappClick() {
+alert("knapp");
+}
+
+
+
+
+
+
+
+
