@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+table, th, td {
+border:1px solid black;
+width: 400px;
+}
+
+.hundar {
+width: 200px;
+}
+h4{
+    font-style: italic;
+    text-decoration: underline;
+}
