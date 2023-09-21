@@ -1,12 +1,17 @@
 body {
     background-color: aqua;
 }
+/* id */
+#mindiv{
+    padding: 50px;
+}
+
 
 table, th, td {
 border:1px solid black;
 width: 400px;
 }
-
+/* class */
 .hundar {
 width: 200px;
 }
