@@ -1,0 +1,25 @@
+body{
+background-color: rgb(87, 81, 92);
+color: azure;
+}
+
+button{
+    width: 50px;
+padding: 10px;
+margin: 10px;
+
+
+}
+h3{
+margin-left: 20px   ;
+
+}
+
+.taltext{
+    margin-left: 40px;
+}
+
+.main{
+margin-left: 500px;
+
+}
