@@ -6,8 +6,9 @@ background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAk
 
 }
 .box{
-background-color: black;
+background-color: aqua;
 margin-left: 550px;
 margin-right: 550px;
+color: black;
 
 }
