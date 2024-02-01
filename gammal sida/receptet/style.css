@@ -2,5 +2,9 @@ body{
 display: grid;
 grid-template-columns: auto auto auto;
 gap: 40px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
 }
 
